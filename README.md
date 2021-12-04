@@ -1,6 +1,5 @@
-### Hi there 👋, I'm Pantho Prodhan
+## Hi there 👋, I'm Pantho Prodhan
 #### a Web Designer & Front-end Web Developer
-a Web Designer & Front-end Web Developer
 
 Coding is one of my passions, which is why I write codes. I have been learning web development for the last three years, and I strive to learn something new every day.
 
