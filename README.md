@@ -1,9 +1,9 @@
 ## Hi there 👋, I'm Pantho Prodhan
-#### a Web Designer & Front-end Web Developer
+#### a Web Designer & Wordpress Developer
 
 Coding is one of my passions, which is why I write codes. I have been learning web development for the last three years, and I strive to learn something new every day.
 
-Skills: HTML / CSS / BOOTSTRAP / SASS / JS/ JQUERY / REACT / PHP / PYTHON
+Skills: HTML / CSS / BOOTSTRAP / SASS / JS/ JQUERY / REACT / Wordpress / PHP / PYTHON
 
 - 🔭 I’m currently working on eCommerce Website 
 - 🌱 I’m currently learning Javascript 
