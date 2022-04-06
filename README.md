@@ -1,5 +1,5 @@
-## Hi there 👋, I'm Pantho Prodhan
-#### a Web Designer & Wordpress Developer
+## Hello, My name is Pantho Prodhan
+#### I'm a Web Designer & Wordpress Developer
 
 Coding is one of my passions, which is why I write codes. I have been learning web development for the last three years, and I strive to learn something new every day.
 
