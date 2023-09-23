@@ -5,7 +5,7 @@ Coding is one of my passions, which is why I write codes. I have been learning w
 
 Skills: HTML / CSS / BOOTSTRAP / SASS / JS/ JQUERY / REACT / Wordpress / PHP / PYTHON
 
-- 🔭 I’m currently working on <a href="https://futurepard.com/">Futurepard</a>
+- 🔭 I’m currently working on <a href="https://futurepard.com/" target="_blank">Futurepard</a>
 - 🌱 I’m currently learning Javascript 
 - 💬 Ask me about Web development 
 
