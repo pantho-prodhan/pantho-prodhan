@@ -1,24 +1,19 @@
-## Hello, My name is Pantho Prodhan
-#### I'm a Web Designer & Wordpress Developer
+# Hi, I'm Pantho Prodhan! 👋
 
-Coding is one of my passions, which is why I write codes. I have been learning web development for the last three years, and I strive to learn something new every day.
+Welcome to my GitHub profile! I'm a web designer and developer specializing in WordPress, dynamic websites, and web technologies. I love building solutions that make web development easier and more efficient.
 
-Skills: HTML / CSS / BOOTSTRAP / SASS / JS/ JQUERY / REACT / Wordpress / PHP / PYTHON
+## What I Do:
+- 🌐 **Web Design & Development**: Crafting dynamic websites using WordPress, Elementor, Crocoblock, and more.
+- 💡 **Freelancing**: Helping businesses create beautiful and functional websites.
+- 📚 **Online Learning**: Sharing my knowledge on web design and freelancing through my platform, **Pradhan Academy**.
 
-- 🔭 I’m currently working on <a href="https://futurepard.com/" target="_blank">Futurepard</a>
-- 🌱 I’m currently learning Javascript 
-- 💬 Ask me about Web development 
+## Projects You'll Find Here:
+- WordPress plugins and themes
+- Dynamic websites with custom features
+- Freelancing tips and tools
 
+## Let's Connect:
+- Visit my [website](https://panthoprodhan.com)
+- Follow me on [YouTube](https://m.youtube.com/@PanthoProdhan)
 
-<p align="left">
-<a href="https://linkedin.com/in/pantho-prodhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pantho-prodhan" height="30" width="40" /></a>
-<a href="https://fb.com/panthoprodhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="panthoprodhan" height="30" width="40" /></a>
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pantho-prodhan)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pantho-prodhan&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pantho-prodhan)  
-
-
+Feel free to explore my repositories and reach out if you have any questions!
